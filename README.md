@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **andres_zamudio25@outlook.com**
 
-- ⚡ Fun fact **I love playing videogames such as Valorant or FC**
+- ⚽ Fun fact **I love playing videogames such as Valorant or FC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
