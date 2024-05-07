@@ -22,8 +22,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swifty0705" alt="swifty0705" /></a> </p>
 
 <p>
-  <img align="left" width="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=swifty0705&show_icons=true&locale=en&layout=compact" alt="swifty0705" />
-  <img align="center" width="260" src="https://github-readme-stats.vercel.app/api?username=swifty0705&show_icons=true&locale=en" alt="swifty0705" />
-  <img align="right" width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=swifty0705&" alt="swifty0705" />
+  <img align="left" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=swifty0705&show_icons=true&locale=en&layout=compact" alt="swifty0705" />
+  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=swifty0705&show_icons=true&locale=en" alt="swifty0705" />
+  <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=swifty0705&" alt="swifty0705" />
 </p>
 
